@@ -1,4 +1,4 @@
-## QR code component
+## [QR code component](https://github.com/mdawoud27/frontendMentorChallenges/tree/main/challenge-01)
 
 * [Challenge Link.](https://www.frontendmentor.io/challenges/qr-code-component-iux_sIO_H)
 
